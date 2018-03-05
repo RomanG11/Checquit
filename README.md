@@ -1,1 +1,5 @@
 # Checquit
+
+Token : 0x28259654db80fcf9adeda208e991cb799c1f6e8e
+
+Crowdsale : 0xf2fe041b99cc26153063227246eb00e01a959262
